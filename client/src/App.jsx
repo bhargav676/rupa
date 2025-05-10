@@ -7,7 +7,7 @@ import { SiHtml5, SiCss3, SiJavascript, SiCplusplus, SiC, SiWordpress, SiArduino
 import { DiJava } from 'react-icons/di';
 import { motion } from 'framer-motion';
 import Typed from 'typed.js';
-import panda from './assets/images/OIp.jpeg';
+import panda from './assets/images/profile.jpeg';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
 
 // Custom CSS with enhanced features
