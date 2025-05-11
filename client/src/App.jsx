@@ -928,7 +928,7 @@ const Portfolio = () => {
           <div className="relative">
             <div className="absolute left-1/2 transform -translate-x-1/2 w-1 bg-accent-teal h-full"></div>
             {[
-              { year: '2025 - Present', title: 'Farmware', desc: 'Currently working on the startup company Antar IoT.' },
+              { year: '2025 - Present', title: 'Firmware', desc: 'Currently working on the startup company Antar IoT.' },
               { year: '2023', title: 'Full-Stack Developer', desc: 'Developed web and AI solutions for various clients.' },
               { year: '2021 - 2025', title: 'B.Tech in Computer Science', desc: 'Graduated with a focus on AI and IoT.' },
             ].map((item, index) => (
